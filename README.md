@@ -18,4 +18,4 @@ Cherchez la méthode qui permet de chercher des tweets par mot-clé et affichez 
 
 Lorqu'on intègre un module de connexion via Twitter sur une app, on utilise le protocole oAuth et on parle de _three-legged authorization_.
 
-![oauth](url)
+![oauth](https://raw.githubusercontent.com/simplonco/twitter-api/master/desc/oauth.jpg?token=AWBv_pv54iI1tfud9CiV87hTH3EdsWlyks5Yfm1owA%3D%3D)
